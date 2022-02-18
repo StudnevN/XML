@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aboutme>
+         <name>Nikita</name>
+         <lastname>Studnev</lastname>
+         <fathersname>Dmitrievich</fathersname>
+         <old>27</old>
+
+         <pets>Not yet</pets>
+
+         <salary>500</salary>
+</aboutme>
