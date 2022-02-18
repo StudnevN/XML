@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skils>
+	<terminal>Linux</terminal>
+	<sql>Command</sql>
+	<postman>API</postman>
+	<charles>traffic</charles>
+	<mobiletest>Android Studio</mobiletest>
+	<sdlc>Scrum</sdlc>
+	<httprequest>API methods</httpreqest>
+</skils>
